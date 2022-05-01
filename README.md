@@ -8,12 +8,14 @@
 
 # Projects
 
-- 190529 
+- 190529 :
 [Self-Diagnostic Application For Carpal Tunnel Syndrome.pdf](https://github.com/git933/git933/files/8598229/Self-Diagnostic.Application.For.Carpal.Tunnel.Syndrome.pdf)
 
 
 
-- 190712
+- 191210 :
+[3D printing heart of transplanting.pdf](https://github.com/git933/git933/files/8598241/3D.printing.heart.of.transplanting.pdf)
+
 
 <!---
 git933/git933 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
