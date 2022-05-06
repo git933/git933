@@ -8,13 +8,24 @@
 
 # Projects
 
-- 190529 :
-[Self-Diagnostic Application For Carpal Tunnel Syndrome.pdf](https://github.com/git933/git933/files/8598229/Self-Diagnostic.Application.For.Carpal.Tunnel.Syndrome.pdf)
+- ### 190529 : Self-Diagnostic Application For Carpal Tunnel Syndrome
+  Using Arduino
+
+     [Self-Diagnostic Application For Carpal Tunnel Syndrome.pdf](https://github.com/git933/git933/files/8598229/Self-Diagnostic.Application.For.Carpal.Tunnel.Syndrome.pdf)
 
 
 
-- 191210 :
-[3D printing heart of transplanting.pdf](https://github.com/git933/git933/files/8598241/3D.printing.heart.of.transplanting.pdf)
+- ### 191210 : Using solidworks and 3D printer
+
+  [3D printing heart of transplanting.pdf](https://github.com/git933/git933/files/8598241/3D.printing.heart.of.transplanting.pdf)
+
+
+
+- ### 200622 : capstone project - Real time Speech-to-text : *a class assistant for whom is hard of hearing*
+
+  Using google Speech-to-text api and python(Visual studio_VirtualEnvironment)
+
+  [RealTime_SpeechToText.pdf](https://github.com/git933/git933/files/8638018/RealTime_SpeechToText.pdf)
 
 
 <!---
