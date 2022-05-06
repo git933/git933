@@ -15,13 +15,19 @@
 
 
 
-- ### 191210 : Using solidworks and 3D printer
+- ### 191210 : 3D Cardiac Modeling for Transplantation
+
+  Using solidworks and 3D printer
 
   [3D printing heart of transplanting.pdf](https://github.com/git933/git933/files/8598241/3D.printing.heart.of.transplanting.pdf)
 
 
+- ### 191223 ~ 200515 : Development of Ultrasonic Transducers using PVDF film
 
-- ### 200622 : capstone project - Real time Speech-to-text : *a class assistant for whom is hard of hearing*
+  worked as an undergraduate research student in NanoBioMedicine lab, Pukyong university
+
+
+- ### 200622 : Real time Speech-to-text program - *a class assistant for whom is hard of hearing*
 
   Using google Speech-to-text api and python(Visual studio_VirtualEnvironment)
 
