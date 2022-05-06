@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @git933, and my name is Seo Minjeong
+- 👋 Hi, I’m @git933, and my name is **Seo Minjeong**
 - 👀 I’m interested in machine learning / AI / healthcare / BCI (Brain - Computer Interface)
 - 🌱 I’m currently learning python(algorithm), Tensorflow, Keras ...
-- 💞️ My specialty is ...
-- 📫 How to reach me : wjd7047@gmail.com
+- 💞️ Bachelor's Degree in **biomedical engineering** / **IT convergence and application engineering** in Pukyoung university
+- 📫 How to reach me : **wjd7047@gmail.com**
 
 
 
