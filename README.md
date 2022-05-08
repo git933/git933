@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @git933, and my name is **Seo Minjeong**
 - 👀 I’m interested in machine learning / AI / healthcare / BCI (Brain - Computer Interface)
 - 🌱 I’m currently learning python(algorithm), Tensorflow, Keras ...
-- 💞️ Bachelor's Degree in **biomedical engineering** / **IT convergence and application engineering** in Pukyoung university
+- 💞️ Bachelor's Degree in **biomedical engineering** / **IT convergence and application engineering** in Pukyoung national university
 - 📫 How to reach me : **wjd7047@gmail.com**
 
 
@@ -33,6 +33,10 @@
 
   [RealTime_SpeechToText.pdf](https://github.com/git933/git933/files/8638018/RealTime_SpeechToText.pdf)
 
+
+- ###201125 : Presentation
+
+  Electric circuit design presentation
 
 <!---
 git933/git933 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
