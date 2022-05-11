@@ -9,13 +9,17 @@
 # Projects
 
 - ### 190529 : Self-Diagnostic Application For Carpal Tunnel Syndrome
-  Patients with carpal tunnel syndrome tend to transmit wrist electromyography signals more later than the general population. 
+  Patients with carpal tunnel syndrome tend to transmit wrist electromyography signals more later than the general population.<br>
   Using this, an Arduino device and a mobile application capable of self-diagnosing syndrome were produced.
   
-  ![device](https://user-images.githubusercontent.com/51781415/167855242-34d50fba-5545-4802-8865-046e71de95d7.png)
-  ![application](https://user-images.githubusercontent.com/51781415/167855278-14a7a7f3-4df7-4067-b4a1-d81688e36ade.png)
-
-
+  <center>
+    <img src="https://user-images.githubusercontent.com/51781415/167855242-34d50fba-5545-4802-8865-046e71de95d7.png" width="300" height="300"/>
+  </center>
+  
+  <center>
+    <img src="https://user-images.githubusercontent.com/51781415/167855278-14a7a7f3-4df7-4067-b4a1-d81688e36ade.png" width="300" height="300"/>
+  </center>
+  
      [Self-Diagnostic Application For Carpal Tunnel Syndrome.pdf](https://github.com/git933/git933/files/8598229/Self-Diagnostic.Application.For.Carpal.Tunnel.Syndrome.pdf)
 
 
