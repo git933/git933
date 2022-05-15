@@ -26,7 +26,14 @@
 
 - ### 191210 : 3D Cardiac Modeling for Transplantation
 
-  Using solidworks and 3D printer
+  After investigating possible diseases in the human heart, I studied the anatomical structure of the heart while looking for treatment methods.<br>
+  Later, it was discovered that the heart itself could be made and transplanted using a technology called FRESH(Freeform Reversible Embedding 
+of Suspended Hydrogels). <br>
+  It would have been nice if I had used this technique to make a model of the hydrogel heart, the materials were limited in using the 3D printer, I designed the 3D cardiac model with SolidWorks and made my own heart model using the 3D printer.
+
+  <center>
+    <img src="https://user-images.githubusercontent.com/51781415/168454646-f49756ec-8ac1-491b-b92c-4c1778769c52.png" width="300" height="300"/>
+  </center>
 
   [3D printing heart of transplanting.pdf](https://github.com/git933/git933/files/8598241/3D.printing.heart.of.transplanting.pdf)
 
