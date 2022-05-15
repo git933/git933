@@ -4,7 +4,7 @@
 - 💞️ Bachelor's Degree in **biomedical engineering** / **IT convergence and application engineering** in Pukyoung national university
 - 📫 How to reach me : **wjd7047@gmail.com**
 
-
+<br>
 
 # Projects
 
@@ -22,7 +22,7 @@
   
      [Self-Diagnostic Application For Carpal Tunnel Syndrome.pdf](https://github.com/git933/git933/files/8598229/Self-Diagnostic.Application.For.Carpal.Tunnel.Syndrome.pdf)
 
-
+<br>
 
 - ### 191210 : 3D Cardiac Modeling for Transplantation
 
@@ -30,11 +30,13 @@
 
   [3D printing heart of transplanting.pdf](https://github.com/git933/git933/files/8598241/3D.printing.heart.of.transplanting.pdf)
 
+<br>
 
 - ### 191223 ~ 200515 : Development of Ultrasonic Transducers using PVDF film
 
   worked as an undergraduate research student in NanoBioMedicine lab, Pukyong university
 
+<br>
 
 - ### 200622 : Real time Speech-to-text program - *a class assistant for whom is hard of hearing*
 
@@ -42,6 +44,7 @@
 
   [RealTime_SpeechToText.pdf](https://github.com/git933/git933/files/8638018/RealTime_SpeechToText.pdf)
 
+<br>
 
 - ### 201125 : Presentation
 
