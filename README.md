@@ -9,8 +9,8 @@
 # Projects
 
 - ### 190529 : Self-Diagnostic Application For Carpal Tunnel Syndrome
-  Patients with carpal tunnel syndrome tend to transmit wrist electromyography signals more later than the general population.<br>
-  Using this, an Arduino device and a mobile application capable of self-diagnosing syndrome were produced.
+  Patients with carpal tunnel syndrome tend to transmit wrist electromyography signals way more later than the general population.<br>
+  Using this, an Arduino device and a mobile application capable of self-diagnosing Carpal Tunnel Syndrome were produced.
   
   <center>
     <img src="https://user-images.githubusercontent.com/51781415/167855242-34d50fba-5545-4802-8865-046e71de95d7.png" width="300" height="300"/>
@@ -24,12 +24,19 @@
 
 <br>
 
+- ### 191014 : Study and presentation of Anterior Cruciate Ligament(ACL) rupture through dissection of pig knee joint
+
+  [Anterior Cruciate Ligament rupture.pdf](https://github.com/git933/git933/files/8698383/Anterior.Cruciate.Ligament.rupture.pdf)
+
+
+<br>
+
 - ### 191210 : 3D Cardiac Modeling for Transplantation
 
-  After investigating possible diseases in the human heart, I studied the anatomical structure of the heart while looking for treatment methods.<br>
+  After investigating possible diseases in the human heart, I studied the anatomical structure of the heart while looking for a cure for a number of cardiovascular diseases.<br>
   Later, it was discovered that the heart itself could be made and transplanted using a technology called FRESH(Freeform Reversible Embedding 
 of Suspended Hydrogels). <br>
-  It would have been nice if I had used this technique to make a model of the hydrogel heart, the materials were limited in using the 3D printer, I designed the 3D cardiac model with SolidWorks and made my own heart model using the 3D printer.
+  It would have been nice if I had used this technique to make a model of the hydrogel heart, however, the materials were limited in using the 3D printer, I designed the 3D cardiac model with SolidWorks and made my own heart model using the filament of 3D printer.
 
   <center>
     <img src="https://user-images.githubusercontent.com/51781415/168454646-f49756ec-8ac1-491b-b92c-4c1778769c52.png" width="300" height="300"/>
@@ -38,6 +45,8 @@ of Suspended Hydrogels). <br>
   [3D printing heart of transplanting.pdf](https://github.com/git933/git933/files/8598241/3D.printing.heart.of.transplanting.pdf)
 
 <br>
+
+
 
 - ### 191223 ~ 200515 : Development of Ultrasonic Transducers using PVDF film
 
