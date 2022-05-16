@@ -24,9 +24,13 @@
 
 <br>
 
-- ### 191014 : Study and presentation of Anterior Cruciate Ligament(ACL) rupture through dissection of pig knee joint
 
-  [Anterior Cruciate Ligament rupture.pdf](https://github.com/git933/git933/files/8698383/Anterior.Cruciate.Ligament.rupture.pdf)
+
+- ### 191014 : Study and presentation of Anterior Cruciate Ligament(ACL) Rupture through dissection of pig knee joint
+  
+  
+  
+  [anterior cruciate ligament rupture.pdf](https://github.com/git933/git933/files/8698817/anterior.cruciate.ligament.rupture.pdf)
 
 
 <br>
