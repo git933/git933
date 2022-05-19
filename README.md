@@ -9,7 +9,8 @@
 # Projects
 
 - ### 190529 : Self-Diagnostic Application For Carpal Tunnel Syndrome
-  Patients with carpal tunnel syndrome tend to transmit wrist electromyography signals way more later than the general population.<br>
+
+  Patients with carpal tunnel syndrome tend to transmit wrist electromyographic signals way more later than the general population.<br>
   Using this, an Arduino device and a mobile application capable of self-diagnosing Carpal Tunnel Syndrome were produced.
   
   <center>
@@ -28,6 +29,9 @@
 
 
 - ### 191014 : Study and presentation of Anterior Cruciate Ligament(ACL) Rupture through dissection of pig knee joint
+
+  The location and function of the Cruciate Ligament were confirmed through the dissection of the pig knee joint.<br>
+  Furthermore, the symptoms and clinical diagnosis methods of the Anterior Cruciate Ligament rupture were investigated.<br>
   
   <center>
     <img src="[https://user-images.githubusercontent.com/51781415/167855278-14a7a7f3-4df7-4067-b4a1-d81688e36ade.png](https://user-images.githubusercontent.com/51781415/169266324-902e5630-4759-412b-ae55-9e0e2434e43f.png)" width="300" height="300"/>
@@ -40,8 +44,9 @@
   
   [anterior cruciate ligament rupture.pdf](https://github.com/git933/git933/files/8698817/anterior.cruciate.ligament.rupture.pdf)
 
-
 <br>
+
+
 
 - ### 191210 : 3D Cardiac Modeling for Transplantation
 
@@ -65,6 +70,8 @@ of Suspended Hydrogels). <br>
   worked as an undergraduate research student in NanoBioMedicine lab, Pukyong university
 
 <br>
+
+
 
 - ### 200622 : Real time Speech-to-text program - *a class assistant for whom is hard of hearing*
 
