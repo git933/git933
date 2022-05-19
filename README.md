@@ -20,6 +20,10 @@
     <img src="https://user-images.githubusercontent.com/51781415/167855278-14a7a7f3-4df7-4067-b4a1-d81688e36ade.png" width="300" height="300"/>
   </center>
   
+  ![device1](https://user-images.githubusercontent.com/51781415/169269705-29e966f1-a7df-44a0-bec4-db02bbfea622.png)
+
+  ![application](https://user-images.githubusercontent.com/51781415/169269717-d607821a-3e3d-4732-8b94-24cc7ea1f10a.png)
+
   
      [Self-Diagnostic Application For Carpal Tunnel Syndrome.pdf](https://github.com/git933/git933/files/8598229/Self-Diagnostic.Application.For.Carpal.Tunnel.Syndrome.pdf)
 
