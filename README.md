@@ -13,16 +13,12 @@
   Using this, an Arduino device and a mobile application capable of self-diagnosing Carpal Tunnel Syndrome were produced.
   
   <center>
-    <img src="https://user-images.githubusercontent.com/51781415/167855242-34d50fba-5545-4802-8865-046e71de95d7.png" width="300" height="300"/>
+    <img src="https://user-images.githubusercontent.com/51781415/169271639-8b1eda99-89ae-4959-8c3b-626b266775ae.png" width="300" height="300"/>
   </center>
   
   <center>
-    <img src="https://user-images.githubusercontent.com/51781415/167855278-14a7a7f3-4df7-4067-b4a1-d81688e36ade.png" width="300" height="300"/>
+    <img src="https://user-images.githubusercontent.com/51781415/169271621-aef47099-7bf5-42c5-b923-2ffeb22e77a9.png" width="300" height="300"/>
   </center>
-  
-  ![device1](https://user-images.githubusercontent.com/51781415/169269705-29e966f1-a7df-44a0-bec4-db02bbfea622.png)
-
-  ![application](https://user-images.githubusercontent.com/51781415/169269717-d607821a-3e3d-4732-8b94-24cc7ea1f10a.png)
 
   
      [Self-Diagnostic Application For Carpal Tunnel Syndrome.pdf](https://github.com/git933/git933/files/8598229/Self-Diagnostic.Application.For.Carpal.Tunnel.Syndrome.pdf)
