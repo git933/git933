@@ -20,6 +20,7 @@
     <img src="https://user-images.githubusercontent.com/51781415/167855278-14a7a7f3-4df7-4067-b4a1-d81688e36ade.png" width="300" height="300"/>
   </center>
   
+  
      [Self-Diagnostic Application For Carpal Tunnel Syndrome.pdf](https://github.com/git933/git933/files/8598229/Self-Diagnostic.Application.For.Carpal.Tunnel.Syndrome.pdf)
 
 <br>
@@ -28,6 +29,13 @@
 
 - ### 191014 : Study and presentation of Anterior Cruciate Ligament(ACL) Rupture through dissection of pig knee joint
   
+  <center>
+    <img src="[https://user-images.githubusercontent.com/51781415/167855278-14a7a7f3-4df7-4067-b4a1-d81688e36ade.png](https://user-images.githubusercontent.com/51781415/169266324-902e5630-4759-412b-ae55-9e0e2434e43f.png)" width="300" height="300"/>
+  </center>
+
+  <center>
+    <img src="[https://user-images.githubusercontent.com/51781415/167855278-14a7a7f3-4df7-4067-b4a1-d81688e36ade.png](https://user-images.githubusercontent.com/51781415/169266334-aed18a7c-c103-4d7b-b4eb-446b0bdf196c.png)" width="300" height="300"/>
+  </center>
   
   
   [anterior cruciate ligament rupture.pdf](https://github.com/git933/git933/files/8698817/anterior.cruciate.ligament.rupture.pdf)
