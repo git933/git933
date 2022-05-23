@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @git933, and my name is **Seo Minjeong**
-- 👀 I’m interested in machine learning / AI / healthcare / BCI (Brain - Computer Interface)
-- 🌱 I’m currently learning python(algorithm), Tensorflow, Keras ...
+- 👀 I’m interested in Machine Learning / AI / Healthcare / BCI (Brain-Computer Interface)
+- 🌱 I’m currently learning Python(algorithm), Tensorflow, Keras ...
 - 💞️ Bachelor's Degree in **biomedical engineering** / **IT convergence and application engineering** in Pukyoung national university
 - 📫 How to reach me : **wjd7047@gmail.com**
 
@@ -15,7 +15,7 @@
 3. [3D Cardiac Modeling for Transplantation](#191210---3d-cardiac-modeling-for-transplantation)
 4. [Development of Ultrasonic Transducers using PVDF film](#191223---200515---development-of-ultrasonic-transducers-using-pvdf-film)
 5. [Real-Time Speech-to-text program](#200622---real-time-speech-to-text-program----a-class-assistant-for-whom-is-hard-of-hearing-)
-6. [Presentation](#201125---presentation)
+6. [Development of Artificial Intelligence for Early Detection of Arrhythmia](#210616---development-of-artificial-intelligence-for-early-detection-of-arrhythmia)
 
 
 ---
@@ -148,6 +148,8 @@ of Suspended Hydrogels). <br>
 <br>
 
 ---
+
+
 
 - ### 210616 : Development of Artificial Intelligence for Early Detection of Arrhythmia
 
