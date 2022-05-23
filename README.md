@@ -150,12 +150,39 @@ of Suspended Hydrogels). <br>
 ---
 
 
-
 - ### 210616 : Development of Artificial Intelligence for Early Detection of Arrhythmia
 
+  The plan for arrhythmia detecting AI development was to analyze the cycle of the QRS wave of the electrocardiogram(ECG) and calculate the matching rate(%) and judge it as arrhythmia when the matching rate appears below a certain probability.<br>
+  The MIT-BIHarrhythmia database and PTB HeartBeat Classification database were used to learn and test AI.<br>
+  Google collab was used to write code, and the development language was Python.<br>
+  At this time, both the LSTM and CNN models were applied.<br>
+  The model accuracy was improved by changing the epoch, batch size, and hyperparameter several times, and significant results were obtained.<br>
   
+  <center>
+    <img src="https://user-images.githubusercontent.com/51781415/169827116-cebfd2d3-f995-45bb-a4b1-cfe53317f9f0.png" width="500" height="250"/>
+  </center>
+  <br>
+  <center>
+    <img src="https://user-images.githubusercontent.com/51781415/169827205-4477be7c-9a3b-49fb-a12c-6db917f4eea1.png" width="500" height="250"/>
+  </center>
   
+  <br>
   
+  [Arrhythmia detection_1.pdf](https://github.com/git933/git933/files/8754762/Arrhythmia.detection_1.pdf)<br>
+  [Arrhythmia detection_2.pdf](https://github.com/git933/git933/files/8754764/Arrhythmia.detection_2.pdf)
+
+  
+  <br>
+  
+---
+  
+- ### 
+
+
+
+<br>
+
+
 ---
 
 <!---
