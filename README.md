@@ -14,7 +14,7 @@
 2. [Study and presentation of Anterior Cruciate Ligament(ACL) Rupture through dissection of pig knee joint](#191014---study-and-presentation-of-anterior-cruciate-ligament-acl--rupture-through-dissection-of-pig-knee-joint)
 3. [3D Cardiac Modeling for Transplantation](#191210---3d-cardiac-modeling-for-transplantation)
 4. [Development of Ultrasonic Transducers using PVDF film](#191223---200515---development-of-ultrasonic-transducers-using-pvdf-film)
-5. [Real time Speech-to-text program](#200622---real-time-speech-to-text-program----a-class-assistant-for-whom-is-hard-of-hearing-)
+5. [Real-Time Speech-to-text program](#200622---real-time-speech-to-text-program----a-class-assistant-for-whom-is-hard-of-hearing-)
 6. [Presentation](#201125---presentation)
 
 
@@ -40,7 +40,9 @@
 
 <br>
 
+
 ---
+
 
 - ### 191014 : Study and presentation of Anterior Cruciate Ligament(ACL) Rupture through dissection of pig knee joint
 
@@ -59,7 +61,9 @@
 
 <br>
 
+
 ---
+
 
 - ### 191210 : 3D Cardiac Modeling for Transplantation
 
@@ -76,7 +80,9 @@ of Suspended Hydrogels). <br>
 
 <br>
 
+
 ---
+
 
 - ### 191223 ~ 200515 : Development of Ultrasonic Transducers using PVDF film
 
@@ -117,11 +123,25 @@ of Suspended Hydrogels). <br>
 
 <br>
 
+
 ---
 
-- ### 200622 : Real time Speech-to-text program - *a class assistant for whom is hard of hearing*
 
-  Using google Speech-to-text api and python(Visual studio_VirtualEnvironment)
+- ### 200622 : Real-Time Speech-to-text program - *a class assistant for whom is hard of hearing*
+
+  As the COVID-19 situation prolonged, the demand for non-face-to-face classes increased over time.<br>
+  However, I thought that it can be noted that the quality of the class experienced by students can vary depending on their Internet situation and the quality of the video.<br>
+  Therefore, I developed a real-time subtitle generator, that is, real-time speech to text, which can immediately output subtitles on the screen by receiving the teacher's words.<br>
+  At this time, the conversion of voice input into text was using Google Cloud speech to text api, and the development language was python.<br>
+  
+  <center>
+    <img src="https://user-images.githubusercontent.com/51781415/169803934-eeb095c4-2e55-43c3-ba9b-9bd1576b55f0.png" width="400" height="170"/>
+  </center>
+  
+  <center>
+    <img src="https://user-images.githubusercontent.com/51781415/169804141-de6bf8ed-a589-4077-acc5-97c566b1c55b.png" width="400" height="200"/>
+  </center>
+  
 
   [RealTime_SpeechToText.pdf](https://github.com/git933/git933/files/8638018/RealTime_SpeechToText.pdf)
 
@@ -129,9 +149,9 @@ of Suspended Hydrogels). <br>
 
 ---
 
-- ### 201125 : Presentation
+- ### 210616 : Development of Artificial Intelligence for Early Detection of Arrhythmia
 
-  Electric circuit design presentation
+  
   
   
 ---
