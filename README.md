@@ -10,7 +10,7 @@
 
 ## Contents
 
-- [Self-Diagnostic Application For Carpal Tunnel Syndrome](#190529---self-diagnostic-application-for-carpal-tunnel-syndrome)
+- [Self-Diagnostic Application For Carpal Tunnel Syndrome ](#190529---self-diagnostic-application-for-carpal-tunnel-syndrome)
 - [Study and presentation of Anterior Cruciate Ligament(ACL) Rupture through dissection of pig knee joint](#191014---study-and-presentation-of-anterior-cruciate-ligament-acl--rupture-through-dissection-of-pig-knee-joint)
 - [3D Cardiac Modeling for Transplantation](#191210---3d-cardiac-modeling-for-transplantation)
 - [Development of Ultrasonic Transducers using PVDF film](#191223---200515---development-of-ultrasonic-transducers-using-pvdf-film)
