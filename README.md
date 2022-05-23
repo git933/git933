@@ -20,6 +20,8 @@
 
 ---
 
+
+
 - ### 190529 : Self-Diagnostic Application For Carpal Tunnel Syndrome
 
   Patients with carpal tunnel syndrome tend to transmit wrist electromyographic signals way more later than the general population.<br>
@@ -38,7 +40,7 @@
 
 <br>
 
-
+---
 
 - ### 191014 : Study and presentation of Anterior Cruciate Ligament(ACL) Rupture through dissection of pig knee joint
 
@@ -57,7 +59,7 @@
 
 <br>
 
-
+---
 
 - ### 191210 : 3D Cardiac Modeling for Transplantation
 
@@ -74,7 +76,7 @@ of Suspended Hydrogels). <br>
 
 <br>
 
-
+---
 
 - ### 191223 ~ 200515 : Development of Ultrasonic Transducers using PVDF film
 
@@ -115,7 +117,7 @@ of Suspended Hydrogels). <br>
 
 <br>
 
-
+---
 
 - ### 200622 : Real time Speech-to-text program - *a class assistant for whom is hard of hearing*
 
@@ -125,9 +127,14 @@ of Suspended Hydrogels). <br>
 
 <br>
 
+---
+
 - ### 201125 : Presentation
 
   Electric circuit design presentation
+  
+  
+---
 
 <!---
 git933/git933 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
