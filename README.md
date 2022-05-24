@@ -15,9 +15,10 @@
 3. [3D Cardiac Modeling for Transplantation](#191210---3d-cardiac-modeling-for-transplantation)
 4. [Development of Ultrasonic Transducers using PVDF film](#191223---200515---development-of-ultrasonic-transducers-using-pvdf-film)
 5. [Real-Time Speech-to-text program](#200622---real-time-speech-to-text-program----a-class-assistant-for-whom-is-hard-of-hearing-)
-6. [Injectable gelatin-oxidized hyaluronic acid hydrogel](#210611---injectable-gelatin-oxidized-hyaluronic-acid-hydrogel)
-7. [Development of Artificial Intelligence for Early Detection of Arrhythmia](#210616---development-of-artificial-intelligence-for-early-detection-of-arrhythmia)
-8. [Database design](#210622---database design----inventory-management-)
+6. [Database design - *Inventory Management*](#210603---database-design----inventory-management-)
+7. [Injectable gelatin-oxidized hyaluronic acid hydrogel](#210611---injectable-gelatin-oxidized-hyaluronic-acid-hydrogel)
+8. [Development of Artificial Intelligence for Early Detection of Arrhythmia](#210616---development-of-artificial-intelligence-for-early-detection-of-arrhythmia)
+9. 
 
 ---
 
@@ -124,8 +125,6 @@ of Suspended Hydrogels). <br>
 
 <br>
 
-
-
 ---
 
 
@@ -151,6 +150,18 @@ of Suspended Hydrogels). <br>
 
 ---
 
+
+
+- ### 210603 : Database design - *Inventory Management*
+
+
+
+<br>
+
+
+
+
+---
 
   
 - ### 210611 : Injectable gelatin-oxidized hyaluronic acid hydrogel
@@ -201,6 +212,8 @@ of Suspended Hydrogels). <br>
 
 ---
 
+
+
 - ### 210616 : Development of Artificial Intelligence for Early Detection of Arrhythmia
 
   The plan for arrhythmia detecting AI development was to analyze the cycle of the QRS wave of the electrocardiogram(ECG) and calculate the matching rate(%) and judge it as arrhythmia when the matching rate appears below a certain probability.<br>
@@ -225,15 +238,15 @@ of Suspended Hydrogels). <br>
   
   <br>
   
----
-
-- ### 210622 : Database design - *Inventory Management*
-
+  
+  
 
 
-<br>
+
 
 ---
+  
+  
   
 - ### 211205 : Fabrication of prosthesis for upper limb amputation patients
 
