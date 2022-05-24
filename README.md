@@ -16,7 +16,7 @@
 4. [Development of Ultrasonic Transducers using PVDF film](#191223---200515---development-of-ultrasonic-transducers-using-pvdf-film)
 5. [Real-Time Speech-to-text program](#200622---real-time-speech-to-text-program----a-class-assistant-for-whom-is-hard-of-hearing-)
 6. [Injectable gelatin-oxidized hyaluronic acid hydrogel](#210611---injectable-gelatin-oxidized-hyaluronic-acid-hydrogel)
-
+7. [Development of Artificial Intelligence for Early Detection of Arrhythmia](#210616---development-of-artificial-intelligence-for-early-detection-of-arrhythmia)
 
 ---
 
