@@ -172,11 +172,27 @@ of Suspended Hydrogels). <br>
   <center>
     <img src="https://user-images.githubusercontent.com/51781415/170002407-c2cec044-a26c-4e08-8165-c151053a4ac0.png" width="500" height="350"/>
   </center>
-
+  <br>
 
   And the properties of the synthesized hydrogel were evaluated to confirm its suitability as a medical material.<br>
+  <center>
+    <img src="https://user-images.githubusercontent.com/51781415/170017572-6a4b5027-768b-4a58-afad-c166746c38f1.png" width="600" height="300"/>
+  </center>
+  <center>
+    <img src="https://user-images.githubusercontent.com/51781415/170017616-ae7bcc92-1c84-4051-b14b-62d5f7f04c3f.png" width="600" height="300"/>
+  </center>
+  <br>
+
 
   Finally, I manufactured the static mixer in SolidWorks and then printed it in 3D to see if the injectable hydrogel mixes well.<br>
+  <center>
+    <img src="https://user-images.githubusercontent.com/51781415/170017711-085780be-f098-48b8-afe6-56678932eb87.png" width="600" height="300"/>
+  </center>
+  <center>
+    <img src="https://user-images.githubusercontent.com/51781415/170017751-ae3ce894-3ad9-4ebf-a00a-a6a2071833ca.png" width="600" height="300"/>
+  </center>
+  <br>
+
   
   [Injectable gelatin-oxidized hyaluronic acid hydrogel.pdf](https://github.com/git933/git933/files/8760426/Injectable.gelatin-oxidized.hyaluronic.acid.hydrogel.pdf)
 
