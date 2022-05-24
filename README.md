@@ -17,6 +17,7 @@
 5. [Real-Time Speech-to-text program](#200622---real-time-speech-to-text-program----a-class-assistant-for-whom-is-hard-of-hearing-)
 6. [Injectable gelatin-oxidized hyaluronic acid hydrogel](#210611---injectable-gelatin-oxidized-hyaluronic-acid-hydrogel)
 7. [Development of Artificial Intelligence for Early Detection of Arrhythmia](#210616---development-of-artificial-intelligence-for-early-detection-of-arrhythmia)
+8. [Database design](#210622---database design----inventory-management-)
 
 ---
 
@@ -162,7 +163,7 @@ of Suspended Hydrogels). <br>
   Therefore, an Injectable hydrogel with these advantages was produced.<br>
   
   <center>
-    <img src="https://user-images.githubusercontent.com/51781415/169978247-38c58639-ae9d-4096-a985-0be02d8e8105.png" width="300" height="350"/>
+    <img src="https://user-images.githubusercontent.com/51781415/169978247-38c58639-ae9d-4096-a985-0be02d8e8105.png" width="380" height="420"/>
   </center>
 
   First, after oxidizing hyaluronic acid, it was checked whether hyaluronic acid was well oxidized, and whether cross-linking was well achieved by synthesizing hyaluronic acid-gelatin hydrogel oxide.<br>
@@ -174,22 +175,19 @@ of Suspended Hydrogels). <br>
   </center>
   <br>
 
-  And the properties of the synthesized hydrogel were evaluated to confirm its suitability as a medical material.<br>
+  And the properties of the synthesized hydrogel were evaluated by Ninhydrin and self healing test to confirm its suitability as a medical material.<br>
   <center>
-    <img src="https://user-images.githubusercontent.com/51781415/170017572-6a4b5027-768b-4a58-afad-c166746c38f1.png" width="600" height="300"/>
+    <img src="https://user-images.githubusercontent.com/51781415/170017572-6a4b5027-768b-4a58-afad-c166746c38f1.png" width="480" height="300"/>
   </center>
   <center>
-    <img src="https://user-images.githubusercontent.com/51781415/170017616-ae7bcc92-1c84-4051-b14b-62d5f7f04c3f.png" width="600" height="300"/>
+    <img src="https://user-images.githubusercontent.com/51781415/170017616-ae7bcc92-1c84-4051-b14b-62d5f7f04c3f.png" width="480" height="300"/>
   </center>
   <br>
 
 
   Finally, I manufactured the static mixer in SolidWorks and then printed it in 3D to see if the injectable hydrogel mixes well.<br>
   <center>
-    <img src="https://user-images.githubusercontent.com/51781415/170017711-085780be-f098-48b8-afe6-56678932eb87.png" width="600" height="300"/>
-  </center>
-  <center>
-    <img src="https://user-images.githubusercontent.com/51781415/170017751-ae3ce894-3ad9-4ebf-a00a-a6a2071833ca.png" width="600" height="300"/>
+    <img src="https://user-images.githubusercontent.com/51781415/170017751-ae3ce894-3ad9-4ebf-a00a-a6a2071833ca.png" width="600" height="400"/>
   </center>
   <br>
 
@@ -227,6 +225,14 @@ of Suspended Hydrogels). <br>
   
   <br>
   
+---
+
+- ### 210622 : Database design - *Inventory Management*
+
+
+
+<br>
+
 ---
   
 - ### 211205 : Fabrication of prosthesis for upper limb amputation patients
