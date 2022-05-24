@@ -154,6 +154,31 @@ of Suspended Hydrogels). <br>
   
 - ### 210611 : Injectable gelatin-oxidized hyaluronic acid hydrogel
 
+  The skin is a dynamic protective tissue that acts as a strong barrier to prevent invasion of various pathogens and harmful substances and also acts as a mechanical absorption.<br>
+  However, the skin is constantly damaged by various reasons.<br>
+  At this time, it is recommended to put a bandage on the wound to keep it moist.<br>
+  But, Injectable hydrogels have a high moisture similar to the human tissue and cause minimal intrusion and pain.<br>
+  Not only can mass be effectively transferred by using highly biocompatible hydrogels, but also a porous framework for cell transplantation and proliferation can be used.<br>
+  Therefore, an Injectable hydrogel with these advantages was produced.<br>
+  
+  <center>
+    <img src="https://user-images.githubusercontent.com/51781415/169978247-38c58639-ae9d-4096-a985-0be02d8e8105.png" width="300" height="350"/>
+  </center>
+
+  First, after oxidizing hyaluronic acid, it was checked whether hyaluronic acid was well oxidized, and whether cross-linking was well achieved by synthesizing hyaluronic acid-gelatin hydrogel oxide.<br>
+  
+  At this time, when the concentration of hyaluronic acid oxide was 30% and the concentration of gelatin was 15%, it was confirmed that the hydrogel was produced the fastest.<br>
+
+  <center>
+    <img src="https://user-images.githubusercontent.com/51781415/170002407-c2cec044-a26c-4e08-8165-c151053a4ac0.png" width="500" height="350"/>
+  </center>
+
+
+  And the properties of the synthesized hydrogel were evaluated to confirm its suitability as a medical material.<br>
+
+  Finally, I manufactured the static mixer in SolidWorks and then printed it in 3D to see if the injectable hydrogel mixes well.<br>
+  
+  [Injectable gelatin-oxidized hyaluronic acid hydrogel.pdf](https://github.com/git933/git933/files/8760426/Injectable.gelatin-oxidized.hyaluronic.acid.hydrogel.pdf)
 
 
 <br>
