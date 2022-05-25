@@ -238,8 +238,23 @@ of Suspended Hydrogels). <br>
   The wrist part was modeled by referring to the left picture and the index part in the right picture.<br>
   
   <center>
-    <img src="https://user-images.githubusercontent.com/51781415/170191161-5f59e828-ddf5-44a0-97c3-87dc3b6bf892.png" width="500" height="250"/>
+    <img src="https://user-images.githubusercontent.com/51781415/170191161-5f59e828-ddf5-44a0-97c3-87dc3b6bf892.png" width="600" height="230"/>
   </center>
+  
+  I divided the parts to be modeled with the team members, and these were the parts I was in charge of.<br>
+
+  <center>
+    <img src="https://user-images.githubusercontent.com/51781415/170198470-e34082b0-73b8-4f1a-aa26-d397c0454487.png" width="400" height="300"/>
+  </center>
+  
+  Parts and drawings of the team members are in the attached pdf file.<br>
+  And the result of assembling all models by 3D printing is in the following video.<br>
+  If you bend your wrist down, the tongs curl up and allow you to grab the object.<br>
+  
+ 
+  https://user-images.githubusercontent.com/51781415/170200399-9bd528d5-7a58-4c97-a659-d9e50f3be32c.mp4
+
+
 
   [Fabrication of prosthesis.pdf](https://github.com/git933/git933/files/8768207/Fabrication.of.prosthesis.pdf)
 
