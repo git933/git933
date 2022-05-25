@@ -232,7 +232,16 @@ of Suspended Hydrogels). <br>
   
 - ### 211205 : Fabrication of prosthesis for upper limb amputation patients
 
+  Hand trauma is one of the common trauma we see around us.<br>
+  According to statistics from the Health Insurance Review and Assessment Service(HIRA), about 12,000 traumatic amputations occur every year.<br>
+  Therefore, prosthetic limbs can be used to overcome this damage.<br>
+  The wrist part was modeled by referring to the left picture and the index part in the right picture.<br>
+  
+  <center>
+    <img src="https://user-images.githubusercontent.com/51781415/170191161-5f59e828-ddf5-44a0-97c3-87dc3b6bf892.png" width="500" height="250"/>
+  </center>
 
+  [Fabrication of prosthesis.pdf](https://github.com/git933/git933/files/8768207/Fabrication.of.prosthesis.pdf)
 
 <br>
 
