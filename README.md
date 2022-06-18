@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @git933, and my name is **Seo Minjeong**
 - 👀 I’m interested in Machine Learning / AI / Healthcare / BCI (Brain-Computer Interface)
-- 🌱 I’m currently learning Python(algorithm), Tensorflow, Keras ...
+- 🌱 Technology stack : python(algorithm) / Tensorflow / Keras ...
 - 💞️ Bachelor's Degree in **biomedical engineering** / **IT convergence and application engineering** in Pukyoung national university
 - 📫 How to reach me : **wjd7047@gmail.com**
 
