@@ -18,9 +18,7 @@
 6. [Injectable gelatin-oxidized hyaluronic acid hydrogel](#210611---injectable-gelatin-oxidized-hyaluronic-acid-hydrogel)
 7. [Development of Artificial Intelligence for Early Detection of Arrhythmia](#210616---development-of-artificial-intelligence-for-early-detection-of-arrhythmia)
 8. [Fabrication of prosthesis for upper limb amputation patients](#-211205---fabrication-of-prosthesis-for-upper-limb-amputation-patients)
-9. 
-10.
-11.
+
 
 ---
 
